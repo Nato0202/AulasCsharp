@@ -66,9 +66,6 @@
                         Console.WriteLine("Opção inválida!");
                     }
 
-                    Console.WriteLine("\nPressione qualquer tecla para voltar ao menu...");
-                    Console.ReadKey();
-
                 } while (choice1 != 11);
 
             } while (choice1 != 11);

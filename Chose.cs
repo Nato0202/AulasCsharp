@@ -12,7 +12,7 @@ public class Choice
             Console.WriteLine("2. ADO2");
             Console.WriteLine("3. ADO3");
             Console.WriteLine("11. Sair");
-            choice1 = int.Parse(Console.ReadLine());
+            choice1 = Convert.ToInt32(Console.ReadLine());
         } while (choice1 != 11 && (choice1 < 1 || choice1 > 3));
         return choice1;
     }
@@ -29,7 +29,7 @@ public class Choice
             Console.WriteLine("4. Exercicio 4");
             Console.WriteLine("5. Exercicio 5");
             Console.WriteLine("11. Voltar");
-            choice2 = int.Parse(Console.ReadLine());
+            choice2 = Convert.ToInt32(Console.ReadLine());
         } while (choice2 != 11 && (choice2 < 1 || choice2 > 5));
         return choice2;
     }
@@ -51,7 +51,7 @@ public class Choice
             Console.WriteLine("9. Exercicio 9");
             Console.WriteLine("10. Exercicio 10");
             Console.WriteLine("11. Voltar");
-            choice2 = int.Parse(Console.ReadLine());
+            choice2 = Convert.ToInt32(Console.ReadLine());
         } while (choice2 != 11 && (choice2 < 1 || choice2 > 10));
         return choice2;
     }
@@ -68,7 +68,7 @@ public class Choice
             Console.WriteLine("4. Exercicio 4");
             Console.WriteLine("5. Exercicio 5");
             Console.WriteLine("11. Voltar");
-            choice2 = int.Parse(Console.ReadLine());
+            choice2 = Convert.ToInt32(Console.ReadLine());
         } while (choice2 != 11 && (choice2 < 1 || choice2 > 5));
         return choice2;
     }
