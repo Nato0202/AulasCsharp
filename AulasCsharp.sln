@@ -4,24 +4,13 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AulasCsharp", "AulasCsharp", "{D80031D8-3AEF-E297-A0AA-3AC381105386}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula1", "AulasCsharp\Aula1\Aula1.csproj", "{CBCD9EE2-1594-8429-88B0-9D4C19E102BD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBCD9EE2-1594-8429-88B0-9D4C19E102BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBCD9EE2-1594-8429-88B0-9D4C19E102BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBCD9EE2-1594-8429-88B0-9D4C19E102BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBCD9EE2-1594-8429-88B0-9D4C19E102BD}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{CBCD9EE2-1594-8429-88B0-9D4C19E102BD} = {D80031D8-3AEF-E297-A0AA-3AC381105386}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CE64C6EA-2255-4947-A438-9F665404C161}

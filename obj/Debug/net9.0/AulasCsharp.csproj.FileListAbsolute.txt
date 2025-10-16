@@ -1,0 +1,15 @@
+C:\Users\Nato\Documents\GitHub\AulasCsharp\bin\Debug\net9.0\AulasCsharp.exe
+C:\Users\Nato\Documents\GitHub\AulasCsharp\bin\Debug\net9.0\AulasCsharp.deps.json
+C:\Users\Nato\Documents\GitHub\AulasCsharp\bin\Debug\net9.0\AulasCsharp.runtimeconfig.json
+C:\Users\Nato\Documents\GitHub\AulasCsharp\bin\Debug\net9.0\AulasCsharp.dll
+C:\Users\Nato\Documents\GitHub\AulasCsharp\bin\Debug\net9.0\AulasCsharp.pdb
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.AssemblyInfoInputs.cache
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.AssemblyInfo.cs
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.sourcelink.json
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.dll
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\refint\AulasCsharp.dll
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.pdb
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\AulasCsharp.genruntimeconfig.cache
+C:\Users\Nato\Documents\GitHub\AulasCsharp\obj\Debug\net9.0\ref\AulasCsharp.dll
