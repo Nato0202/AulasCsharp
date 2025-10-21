@@ -5,9 +5,9 @@ public class Ex7
     public static void Executar()
     {
         Console.WriteLine("PROGRAMA DO IMC");
-        Console.WriteLine("Qual a sua altura?");       double altura = ConvertToDouble(Console.ReadLine());
+        Console.WriteLine("Qual a sua altura?");       double altura = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Qual o seu peso?");
-        double peso = ConvertToDouble(Console.ReadLine());
+        double peso = Convert.ToDouble(Console.ReadLine());
 
         double imc = peso / (altura * altura);
         Console.WriteLine("Seu IMC é " + imc);

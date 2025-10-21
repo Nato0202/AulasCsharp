@@ -8,11 +8,11 @@ public class Ex5
         Console.WriteLine("Qual é o personagem de Friends que trabalha com TI?");
         string friends = Console.ReadLine();
 
-        if(friends == Joey){
-            Console.WriteLine("Resposta correta: false");
+        if(friends == "Chandler"){
+            Console.WriteLine("Resposta correta: true");
         }
         else{
-            Console.WriteLine("Resposta correta: true");
+            Console.WriteLine("Resposta correta: false");
         }
     }
 }

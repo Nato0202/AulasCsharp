@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulasCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d6d2bd804ac42d50b429184032bbcbd9cb6d1bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571c48163d8a6ff2ff8bf86a6d93e1ed3de2e6d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulasCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulasCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

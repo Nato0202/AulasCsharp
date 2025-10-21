@@ -8,11 +8,11 @@ public class Ex6
         Console.WriteLine("Qual a cor do semáforo");
         string cor = Console.ReadLine();
 
-        if (cor == verde)
+        if (cor == "verde")
         {
             Console.WriteLine("Pode atravessar? true");
         }
-        else if (cor == vermelho)
+        else if (cor == "vermelho")
         {
             Console.WriteLine("Pode atravessar? false");
         }

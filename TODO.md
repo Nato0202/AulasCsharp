@@ -1,0 +1,2 @@
+- [x] Corrigir Chose.cs: Adicionar opção 4 em Choose(), atualizar validação, adicionar ChoiceADOVETOR(), atualizar ChoiceADO3 para 1-10 exercícios.
+- [x] Corrigir Program.cs: Fixar namespaces, remover duplicata else if(choice1 == 3), mudar para choice1 == 4, completar chamada para ADOVETOR, corrigir loop interno para while (choice2 != 11).

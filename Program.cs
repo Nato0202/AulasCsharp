@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             int choice1;
-            int choice2;
 
             do
             {
@@ -18,6 +17,7 @@
                 if (choice1 == 11)
                     break;
 
+                int choice2 = 0;
                 do
                 {
                     if (choice1 == 1)
@@ -31,6 +31,9 @@
                         else if (choice2 == 4) AulasCsharp.Aula1.Ex4.Executar();
                         else if (choice2 == 5) AulasCsharp.Aula1.Ex5.Executar();
                         else Console.WriteLine("Opção inválida!");
+
+                        Console.WriteLine("Pressione alguma tecla para continuar...");
+                        Console.ReadKey();
                     }
                     else if (choice1 == 2)
                     {
@@ -48,6 +51,9 @@
                         else if (choice2 == 9) AulasCsharp.Aula3.ADO2.Ex9.Executar();
                         else if (choice2 == 10) AulasCsharp.Aula3.ADO2.Ex10.Executar();
                         else Console.WriteLine("Opção inválida!");
+
+                        Console.WriteLine("Pressione alguma tecla para continuar...");
+                        Console.ReadKey();
                     }
                     else if (choice1 == 3)
                     {
@@ -59,14 +65,34 @@
                         else if (choice2 == 3) AulasCsharp.Aula3.ADO3.Ex3.Executar();
                         else if (choice2 == 4) AulasCsharp.Aula3.ADO3.Ex4.Executar();
                         else if (choice2 == 5) AulasCsharp.Aula3.ADO3.Ex5.Executar();
+                        else if (choice2 == 6) AulasCsharp.Aula3.ADO3.Ex6.Executar();
+                        else if (choice2 == 7) AulasCsharp.Aula3.ADO3.Ex7.Executar();
+                        else if (choice2 == 8) AulasCsharp.Aula3.ADO3.Ex8.Executar();
+                        else if (choice2 == 9) AulasCsharp.Aula3.ADO3.Ex9.Executar();
+                        else if (choice2 == 10) AulasCsharp.Aula3.ADO3.Ex10.Executar();
                         else Console.WriteLine("Opção inválida!");
+
+                        Console.WriteLine("Pressione alguma tecla para continuar...");
+                        Console.ReadKey();
+                    }
+                    else if (choice1 == 4)
+                    {
+                        choice2 = Choice.ChoiceADOVETOR();
+                        if (choice2 == 11) break;
+
+                        if (choice2 == 1) AulasCsharp.ADOVETOR.Ex1.Executar();
+                        else Console.WriteLine("Opção inválida!");
+
+                        Console.WriteLine("Pressione alguma tecla para continuar...");
+                        Console.ReadKey();
                     }
                     else
                     {
                         Console.WriteLine("Opção inválida!");
+                        choice2 = 11; // Para sair do loop se opção inválida
                     }
 
-                } while (choice1 != 11);
+                } while (choice2 != 11);
 
             } while (choice1 != 11);
 
